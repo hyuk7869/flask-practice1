@@ -1,4 +1,4 @@
-<img width="1336" height="872" alt="인사 페이지 사진" src="https://github.com/user-attachments/assets/8280877e-307f-479f-82bd-6af8cb258079" />
-<img width="1337" height="872" alt="취미 페이지 사진" src="https://github.com/user-attachments/assets/df7f669c-a105-416d-8416-0e8edf275ab7" />
-<img width="1332" height="870" alt="메인 페이지 사진" src="https://github.com/user-attachments/assets/4c673d42-0f8a-41b3-98a3-593d7bf5bca2" />
+<img width="1327" height="822" alt="인사" src="https://github.com/user-attachments/assets/026c5e49-944f-40bb-a2f7-5d8ed0dc7fc2" />
+<img width="1331" height="817" alt="취미" src="https://github.com/user-attachments/assets/72ce009b-9e79-470f-ae96-7b49ac757020" />
+<img width="1332" height="830" alt="메인" src="https://github.com/user-attachments/assets/50db911c-18e5-4f6e-97d9-7ee3a3814314" />
 
