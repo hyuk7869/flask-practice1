@@ -25,7 +25,16 @@ def age_any(num):
 def age_int(num):
     return f"<h1>{num} 살 — 타입은 {type(num).__name__}</h1>"
 
+@app.route('/user/<username1>')
+def user_profile(username1):
+    return render_template('profile.html',username=username1,posts=['첫글','두 번째 글'])
 
+
+@app.route('/newuser/<username2>')
+def new_user(username2):
+    return render_template('profile.html',
+                            username=username2,
+                            posts=[])
 
 
 #이게 중간에 들어가면 이 이후는 실행이 안됨
