@@ -2,7 +2,9 @@ from flask import Flask, render_template, request, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///todo.db'
+#app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///todo.db'
+#app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://flask_user:1111@localhost/flask_todo_db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:1111@localhost/flask_todo_db'
 db = SQLAlchemy(app)
 
 class Todo(db.Model):
