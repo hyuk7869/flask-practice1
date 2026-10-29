@@ -11,3 +11,12 @@ flask --debug run
 <img width="1411" height="828" alt="스크린샷 2026-10-29 155709" src="https://github.com/user-attachments/assets/f48206eb-d51f-4489-a0fd-ed0fa376d14b" />
 <img width="1575" height="857" alt="스크린샷 2026-10-29 203842" src="https://github.com/user-attachments/assets/e8211cb7-bbcb-4a68-8171-4a761c32bf9e" />
 <img width="1407" height="877" alt="스크린샷 2026-10-29 155310" src="https://github.com/user-attachments/assets/b974e7fa-aa2e-4735-b055-67f9350f599d" />
+
+
+## 화면
+### 1. 주소 여섯 줄이 모두 보이는 문서
+![docs](스크린샷 2026-10-29 155310.png)
+### 2. note 를 넣어 만들었더니 201 이 온 모습
+![post](스크린샷 2026-10-29 203842.png)
+### 3. 없는 번호를 불렀더니 404 가 온 모습
+![404](스크린샷 2026-10-29 155709.png)
